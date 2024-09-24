@@ -1,6 +1,8 @@
 // array
 
 const myArr = [0, 1, 2, 3, 4, 5]
+// javascript array are resizable..
+
 const myHeors = ["shaktiman", "naagraj"]
 
 const myArr2 = new Array(1, 2, 3, 4)
