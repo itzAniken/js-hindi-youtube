@@ -69,6 +69,8 @@ const {courseInstructor: instructor} = course
 // console.log(courseInstructor);
 console.log(instructor);
 
+
+//api aese hi milti hai...
 // {
 //     "name": "hitesh",
 //     "coursename": "js in hindi",
